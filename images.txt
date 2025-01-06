@@ -9,3 +9,4 @@ xhofe/alist:latest
 flink
 spark
 langchain
+pytorch
