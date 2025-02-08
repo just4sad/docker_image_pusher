@@ -11,4 +11,4 @@ xhofe/alist:latest
 flink
 spark
 ollama/ollama
-
+daangn/faiss
